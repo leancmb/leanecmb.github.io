@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rajdhani:wght@300&family=Syne+Mono&display=swap');
+
+img, .centered-image {
+  object-fit: cover;
+}
+ 
+a {
+  display: inline-block;
+  color : #ffd880 ;
+font-family: 'Indie Flower', cursive;
+}
+
+img{ 
+  height :200px;
+  width : 260px;
+}
+
+h2 {
+color : #ffd880 ;
+font-family: 'Indie Flower', cursive;
+}
+
+p {
+color : #f39189 ;
+font-family: 'Syne Mono', monospace;
+}
+
+h3 {
+
+color : #ffd880 ;
+font-family: 'Indie Flower', cursive;
+font-size: 20pt;
+  padding-top: 0px;
+padding-left: 0px;
+
+}
+
+h4 {
+color : #ffd880 ;
+font-family: 'Indie Flower', cursive;
+font-size: 20pt;
+  padding-top: 0px;
+padding-left: 0px;
+}
+
+b {
+color : #f39189 ;
+font-family: 'Syne Mono', monospace;
+}
